@@ -1,0 +1,9 @@
+# Temporarily ignore jpg files
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx

@@ -1,0 +1,330 @@
+/* GLOBAL CHANGES */
+.quickfinder.dynamic ul.top-links {
+  margin-left: 7px;
+}
+
+div.error{ display: none; }
+#main {
+  margin: 16px 15px 0 0;
+}
+#main .content-wrapper .main,
+.page-sidebar #main .content-wrapper .main {
+  margin: 14px 0 0;
+}
+#sidebar-left {
+  margin: 30px 48px 0 13px;
+}
+#sidebar-right {
+  width: 232px;
+}
+#sidebar-right .page-sidebar h3,
+#sidebar-right .page-sidebar h4 {
+  font-size: 15px;
+  line-height: 16px;
+  font-family: Arial, Verdana;
+}
+#sidebar-right .page-sidebar p {
+  font-size: 11px;
+  color: black;
+}
+.main .node p + ul,
+.main .node p + ol,
+.main .content ul,
+.main .content ol {
+  padding: 0 0 0 49px;
+  margin: 0 0 12px 20px;
+}
+.main .content ul li ul,
+.main .content ul li ol,
+.main .content ol li ol,
+.main .content ol li ul,
+.content ul.profile-list {
+  margin:0 0 12px 0 !important;
+  padding: 0 0 0 49px;
+}
+.main .node p + ul li,
+.main .content ul li {
+  list-style: disc outside none;
+  margin: 0 0 6px 12px;
+}
+.main .content ol li, 
+.main .node p + ol li {
+  list-style-type: decimal;
+  margin: 0 0 6px 12px;
+}
+.main .content ol.upper-alpha li,
+.main .node p + ol.upper-alpha li {
+  list-style-type: upper-alpha;
+}
+.main .content ol.lower-alpha li,
+.main .node p + ol.lower-alpha li {
+  list-style-type: lower-alpha;
+}
+#content ul.collapsible li.open a,
+#content ul.collapsible li.open span,
+#content ul.collapsible li.open strong,
+#content ul.collapsible li.open b,
+#content ul.collapsible li.open i,
+#content ul.collapsible li.open em,
+#content ul.collapsible li.open u { 
+  display: inline !important; 
+}
+#main ul.collapsible {
+  padding-left: 20px;
+  margin-left: 0;
+}
+#main ul.collapsible li {
+  margin: 0;
+  list-style-type: none;
+}
+/* GLOBAL CHANGES AFTER FIRST DROP */
+p.indent {
+  margin-left: 40px;
+}
+#sidebar-left .item-list ul li {
+  background: url("../../img/bullet-square-orange.gif") no-repeat scroll 0 0 transparent;
+  padding: 0 0 4px 9px;
+  list-style: none outside none !important;
+  margin: 0 8px !important;
+  line-height: 14px;
+}
+#sidebar-left .item-list ul li a {
+  vertical-align: middle;
+}
+#sidebar-left #block-ru_schools_page_helper-0 {
+  padding: 4px 0 10px;
+}
+#content table tr td {
+  vertical-align: top;
+}
+/* END OF GLOBAL CHANGES */
+
+#sidebar-right .page-sidebar {
+  background-color: #EAF9F9;
+}
+#sidebar-right .page-sidebar img {
+  margin: 0 0 0 -8px;
+}
+#sidebar-right .page-sidebar h3,
+#sidebar-right .page-sidebar h4 {
+  background-color: #BAE1E1;
+  color: #373737;
+}
+#sidebar-right .page-sidebar a {
+  color: #004DA3;
+}
+#main ul.profile-list {
+  border-bottom: 1px dotted #a5a5a5;
+  padding-left: 0;
+}
+#main ul.profile-list li {
+  border-top: 1px dotted #a5a5a5;
+  overflow: auto;
+  margin-left: 0;
+}
+#main ul.profile-list li p.name-and-title {
+  font-size: 12.5px;
+  line-height: 17px;
+  padding-top: 7px;
+}
+#main ul.profile-list li p {
+  margin: 0 0 7px;
+  font-size: 11.5px;
+  color: black;
+}
+#main ul.profile-list li img {
+  margin: -3px 18px 4px 0;
+}
+#main ul.profile-list li a {
+  color: #004DA3;
+}
+
+/* CHANGES AFTER FIRST DROP */
+#content .page_sidebars p img {
+  margin: 0;
+}
+form.webform-client-form {
+  margin-top: 25px;
+}
+.form-item label {
+  display: inline;
+  font-family: Tahoma;
+  font-size: 11.5px;
+  font-weight: normal;
+  float: left;
+  padding-right: 6px;
+  text-align: right;
+  width: 100px;
+}
+fieldset.captcha {
+  clear: left;
+  margin-left: 20px;
+}
+fieldset.captcha legend {
+  padding-top: 15px;
+  color: #000000;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 4px;
+  text-transform: uppercase;
+}
+.form-submit {
+  margin-left: 100px;
+}
+#content table {
+  border-top: 2px solid #7dabab;
+  border-bottom: 2px solid #7dabab;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+#content table thead th {
+  background-color: #7dabab;
+  color: white;
+  border-bottom: 0;
+  padding: 8px 30px 8px 15px;
+}
+#content  table.table-style3 thead th {
+  padding: 8px 5px 8px 10px;
+  font-size: 11px;
+}
+#content  table tr {
+  background-color: #eef8f8;
+}
+#content  table tr.alt {
+  background-color: #dbeeee;
+}
+#content  table tr td {
+  color: black;
+  font-size: 11.5px;
+  padding: 8px 30px 8px 15px;
+}
+#content  table.table-style3 tr td {
+  font-size: 11px;
+  padding: 8px 5px 8px 10px;
+}
+#content  table tr td.left-col {
+  text-align: right;
+  width: auto;
+  padding-left: 40px;
+  padding-right: 0;
+}
+#main table tr td ul {
+  margin: 0;
+  padding: 0;
+}
+#main .details table.program-details td {
+  line-height: 22px;
+}
+#main .details table.program-details td.val {
+  text-indent: 0;
+}
+#main .details table.program-details td {
+  padding: 8px 0 8px 15px;
+}
+table.courses-offered {
+width:600px;
+}
+table.courses-offered tr.odd td {
+  background:none repeat scroll 0 0 #EEF8F9; width:300px;
+}
+table.courses-offered tr.even td {
+  background:none repeat scroll 0 0 #DBEDED; width:300px;
+}
+ul.page_sidebars li ul li {
+  font-size:10px;
+  margin:0 0.5em 0.25em 3em;
+  list-style:disc;
+}
+#sidebar-left .main-submenu .menu-name-primary-links > .menu li.active-trail .menu li,
+#sidebar-left .menu li.active-trail .menu li {
+  list-style: none outside none;
+}
+#sidebar-left .menu li.active-trail .menu li a {
+  background: url("../../img/gray-square.gif") no-repeat scroll left center transparent;
+  padding: 2px 0 2px 20px;
+  display: block;
+  background-position: 10px 7px;
+}
+#sidebar-left .menu li.active-trail .menu li a:hover {
+  background: url("../../../../../../core-training.rutgers.edu/nb/sites/core-training.rutgers.edu.nb/themes/images/gold-square.gif") no-repeat scroll left center transparent;
+  text-decoration: none;
+  background-position: 10px 7px;
+  background-color: #f7efc9;
+}
+#sidebar-left .main-submenu .menu-name-primary-links > .menu li,
+#sidebar-left .menu li {
+  padding: 0;
+}
+#sidebar-left .main-submenu .menu-name-primary-links > .menu li a,
+#sidebar-left .menu li a {
+  display: block;
+  padding: 5px;
+}
+#sidebar-left .main-submenu .menu-name-primary-links > .menu li a:hover,
+#sidebar-left .menu li a:hover {
+  background-color: #f7efc9;
+  color: #b48c00;
+  text-decoration: none;
+}
+#sidebar-left .main-submenu .menu-name-primary-links > .menu li li {
+  padding: 0 !important;
+}
+#sidebar-left .menu li.leaf,
+#sidebar-left .menu li.collapsed {
+  list-style-image: none;
+}
+#sidebar-left .menu li.expanded {
+  background: none repeat scroll 0 0 #EBEEE1;
+}
+#sidebar-left .menu li.expanded .menu li.expanded .menu li a {
+  background-position: 18px 7px;
+  padding-left: 28px;
+}
+/* Testing a hack for IE7 */
+*:first-child+html #sidebar-left .menu li.active-trail .menu li a:hover, 
+*:first-child+html #sidebar-left .menu li.active-trail .menu li a {
+  background-position: 10px 10px;
+}
+*:first-child+html #sidebar-left .menu li.expanded .menu li.expanded .menu li a {
+  background-position: 18px 10px;
+}
+/* End of testing */
+#sidebar-left #block-menu-audiences h2 {
+  font-family: arial;
+}
+#sidebar-left #block-menu-audiences .menu li a {
+  background: url("../../img/gray-square.gif") no-repeat scroll 10px 9px transparent;
+  display: block;
+  padding: 2px 5px 2px 20px;
+  font-size: 11px;
+  color: #868684;
+}
+#sidebar-left #block-menu-audiences .menu li a:hover {
+  background-color: none;
+  text-decoration: underline;
+  color: #056191;
+}
+#sidebar-left #block-ru_schools_page_helper-0, 
+#sidebar-left #block-menu-audiences {
+  margin-left: 22px;
+  width: 190px;
+}
+
+#main {
+  margin: 16px 10px 0 0;
+  width: 702px;
+}
+#page-banner {
+  margin-bottom: 5px;
+  margin-left: 0;
+  margin-top: -4px;
+  width: 702px;
+}
+#sidebar-left {
+  margin: 30px 45px 0 13px;
+}
+#sidebar-left .main-submenu .menu-name-primary-links > .menu {
+  margin-left: 22px;
+  width: 190px;
+}

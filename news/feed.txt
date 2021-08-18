@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://zimmerli.rutgers.edu/information/media/press-releases" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Announcements</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>See You in September</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/see-you-september-2</link>
+    <description>&lt;p&gt;We have been working behind the scenes, across the museum, to prepare to reopen on September 1.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We will announce more details soon, so check back. Or, if you are not on our email list, &lt;a href=&quot;https://signup.e2ma.net/signup/1837058/1789433/&quot;&gt;sign up now&lt;/a&gt;, so you can be among the first to receive the news.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We look forward to seeing you!&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;We have been working behind the scenes, across the museum, to prepare to reopen on September 1.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We will announce more details soon, so check back. Or, if you are not on our email list, &lt;a href=&quot;https://signup.e2ma.net/signup/1837058/1789433/&quot;&gt;sign up now&lt;/a&gt;, so you can be among the first to receive the news.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We look forward to seeing you!&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: Follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/see-you-september-2&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Tue, 03 Aug 2021 17:33:12 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3534 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>ICYMI: Visit Our YouTube Channel to Catch Up on Recent Programs</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/icymi-visit-our-youtube-channel-catch-recent-programs</link>
+    <description>&lt;p&gt;The Zimmerli has posted 40 videos (and counting!) on its &lt;a href=&quot;https://go.rutgers.edu/ZimmerliOnYT&quot;&gt;YouTube channel&lt;/a&gt;. Watch recordings of programs you may have missed, such as Art After Hours, Art Together, virtual talks with artists and scholars, exhibition and gallery tours, and MORE. Subscribe now and be among the first to know when we post new content!&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;The Zimmerli has posted 40 videos (and counting!) on its &lt;a href=&quot;https://go.rutgers.edu/ZimmerliOnYT&quot;&gt;YouTube channel&lt;/a&gt;. Watch recordings of programs you may have missed, such as Art After Hours, Art Together, virtual talks with artists and scholars, exhibition and gallery tours, and MORE. Subscribe now and be among the first to know when we post new content!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 02 Aug 2021 08:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3533 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>How to Get in Touch with Zimmerli Staff</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/how-get-touch-zimmerli-staff</link>
+    <description>&lt;p&gt;To reach museum staff, please visit the&amp;nbsp;&lt;a href=&quot;http://zimmerlimuseum.rutgers.edu/about/contact-us#Departmental Contacts&quot;&gt;contact page&lt;/a&gt;&amp;nbsp;and select the staff member&amp;#39;s department. If you do not know the department, please email &lt;a href=&quot;mailto:info@zimmerli.rutgers.edu&quot;&gt;info@zimmerli.rutgers.edu&lt;/a&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;and include the name of the person you wish to reach or a brief description of the information you seek.&lt;/span&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;To reach museum staff, please visit the&amp;nbsp;&lt;a href=&quot;http://zimmerlimuseum.rutgers.edu/about/contact-us#Departmental Contacts&quot;&gt;contact page&lt;/a&gt;&amp;nbsp;and select the staff member&amp;#39;s department. If you do not know the department, please email &lt;a href=&quot;mailto:info@zimmerli.rutgers.edu&quot;&gt;info@zimmerli.rutgers.edu&lt;/a&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;and include the name of the person you wish to reach or a brief description of the information you seek.&lt;/span&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 02 Aug 2021 07:30:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3466 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Register Now for Virtual Summer Art Camp</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/register-now-virtual-summer-art-camp</link>
+    <description>&lt;p&gt;Children between the ages of 9 and 13 are invited to explore their creativity and develop new skills in the arts alongside our teaching artists: Wes Sherman, Danielle Fleming, Thomas Peitz, and Priscilla Cancel.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weekly Morning Sessions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;July 6-9:&amp;nbsp;The Secrets of Drawing and&amp;nbsp;Painting with the Masters&lt;/p&gt;
+&lt;p&gt;July 12-16: Art and Nature and Crazy about Cartoons&lt;/p&gt;
+&lt;p&gt;July 19-23:&amp;nbsp;Art Through the Ages and Art Meets Science&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:education@zimmerli.rutgers.edu&quot;&gt;education@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Children between the ages of 9 and 13 are invited to explore their creativity and develop new skills in the arts alongside our teaching artists: Wes Sherman, Danielle Fleming, Thomas Peitz, and Priscilla Cancel.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weekly Morning Sessions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;July 12-16: Art and Nature and Crazy about Cartoons&lt;/p&gt;
+&lt;p&gt;July 19-23:&amp;nbsp;Art Through the Ages and Art Meets Science&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;July 26-30:&amp;nbsp;&lt;em&gt;New in 2021!&lt;/em&gt;&amp;nbsp;Art Around the World and&amp;nbsp;Say It with Art &amp;ndash; Making Art with a Message&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;See all the details and &lt;a href=&quot;http://go.rutgers.edu/summerartcamp&quot;&gt;register here&lt;/a&gt;! Discounts available for &lt;a href=&quot;http://www.zimmerlimuseum.rutgers.edu/membership/become&quot;&gt;Zimmerli members&lt;/a&gt; (current and new) at the Family level and above.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: The Zimmerli remains closed to the public, with all in-person programs and events suspended, until further notice. &lt;/em&gt;Please follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/register-now-virtual-summer-art-camp&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Thu, 27 May 2021 13:31:34 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3532 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Virtual Programs in May</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/virtual-programs-may</link>
+    <description>&lt;p&gt;Get creative with your family on May 1 at the final &lt;a href=&quot;http://go.rutgers.edu/arttogether&quot;&gt;Art Together&lt;/a&gt; of 2020-21.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Need a study break? Visit &lt;a href=&quot;http://go.rutgers.edu/studyallnight&quot;&gt;Study All Night&lt;/a&gt;, which we have transformed into a virtual meeting place for Rutgers students! From May 4 through 12, check out a variety of free activities to help you relax while preparing for and between taking exams.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Need a study break? Visit &lt;a href=&quot;http://go.rutgers.edu/studyallnight&quot;&gt;Study All Night&lt;/a&gt;, which we have transformed into a virtual meeting place for Rutgers students! Through May 12, check out - at your convenience - a variety of free activities to help you relax while preparing for and between taking exams.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join us for a screening and discussion of &lt;em&gt;Discovering Utopia&lt;/em&gt; on May 14. The film explores the story of VNIITE, the All-Union Scientific Research Institute of Technical Aesthetics, an organization that is all but forgotten. Formed in the USSR in 1962, it brought together the most progressive Soviet designers. Register for free at &lt;a data-type=&quot;url&quot; href=&quot;https://go.rutgers.edu/VNIITEMay14&quot;&gt;go.rutgers.edu/VNIITEMay14&lt;/a&gt;.&amp;nbsp;In Russian with English subtitles.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: The Zimmerli remains closed to the public, with all in-person programs and events suspended, until further notice. &lt;/em&gt;Please follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/virtual-programs-may&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Fri, 30 Apr 2021 18:23:59 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3530 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Save the Date for the Next Member Event: Social Justice as a Theme in Jewish Art on May 20</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/save-date-next-member-event-social-justice-theme-jewish-art-may-20</link>
+    <description>&lt;p&gt;Margaret Olin, senior research scholar at the Yale Divinity School, and Hannah Shaw, graduate curatorial assistant at the Zimmerli, discuss the topic from a range of art historical perspectives. In addition, learn more about the upcoming exhibition&amp;nbsp;&lt;em&gt;Dateci: Sheba Sharrow and Primo Levi&lt;/em&gt;. It is based on a series of four mixed media paintings by Sharrow, whose work is well known in New Jersey and the Philadelphia area. Typical of her focus on 20th-century war and genocide, she was inspired by the poem &lt;em&gt;Dateci (Give Us)&lt;/em&gt; by Levi, a writer and survivor of Auschwitz.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/save-date-next-member-event-social-justice-theme-jewish-art-may-20&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Fri, 30 Apr 2021 12:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3531 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>April Showers? Not on Zoom!</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/april-showers-not-zoom</link>
+    <description>&lt;p&gt;Join us for the final spring session of BLOOM: Explore Self-Expression and Growth through Art on April 10. &amp;quot;Thrive: Sketching Your Growth through Botany&amp;quot;&lt;strong&gt; &lt;/strong&gt;envisions the growth and power in our life journeys through sketching with botany-inspired artworks. Visit &lt;a href=&quot;http://go.rutgers.edu/bloom&quot;&gt;go.rutgers.edu/bloom&lt;/a&gt; for details and Zoom link (registration not required). Workshops are conducted with English and Spanish instruction.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Meet us for Virtual &lt;a href=&quot;https://rutgersday.rutgers.edu/&quot;&gt;Rutgers Day&lt;/a&gt; on Zoom this Saturday, April 24, for our new highlights tour in English and Spanish, online exhibitions, coloring pages, and art projects for all ages!&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Rutgers alumnus Richard B. Woodward (RC&amp;lsquo;72, Art History) presents &amp;quot;The Arts of Africa: Four Decades of Collecting at the Virginia Museum of Fine Arts&amp;quot; on April 27. He focuses on his career as the founding curator of the African art department at the VMFA in Richmond. Consisting of more than 1,200 works, it is one of the country&amp;rsquo;s leading collections of the arts of Africa, noted for its broad chronological, geographic, and material scope. Members are invited to &lt;a href=&quot;https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft.e2ma.net%2Fclick%2Frgjo2e%2Fvz4k2m%2Fnpbh5m&amp;amp;data=04%7C01%7Ctcwatson%40zimmerli.rutgers.edu%7C631d9131cff14d4a00c908d8f9c5777a%7Cb92d2b234d35447093ff69aca6632ffe%7C1%7C0%7C637533973835506997%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;amp;sdata=UICLSVXriSlzcDWTznRoIfdl0MVXHsh1IrUjhm4cvpE%3D&amp;amp;reserved=0&quot;&gt;register on Zoom&lt;/a&gt;. Not yet a member? Learn more &lt;a href=&quot;https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft.e2ma.net%2Fclick%2Frgjo2e%2Fvz4k2m%2F3hch5m&amp;amp;data=04%7C01%7Ctcwatson%40zimmerli.rutgers.edu%7C631d9131cff14d4a00c908d8f9c5777a%7Cb92d2b234d35447093ff69aca6632ffe%7C1%7C0%7C637533973835516955%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;amp;sdata=sN2TjRQlu4ci%2B1gxgEWArZyzvSbLaLTeB6PZRNrxxfc%3D&amp;amp;reserved=0&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join us at the free &lt;a href=&quot;http://www.zimmerlimuseum.rutgers.edu/information/media/press-releases/women-photographers-dodge-collection-focus-april-29-virtual-exhibit&quot;&gt;Virtual Exhibition Celebration&lt;/a&gt; for &lt;em&gt;C&lt;/em&gt;&lt;em&gt;ommunism Through the Lens&lt;/em&gt;&lt;em&gt;: Everyday Life Captured by Women Photographers in the Dodge Collection&lt;/em&gt; on April 29. The program features an exhibition overview by Maria Garth, Dodge Fellow at the Zimmerli and Ph.D. candidate in art history, who organized the exhibition; followed by a roundtable discussion and audience Q&amp;amp;A session. Complete details and registration are available at &lt;a href=&quot;https://go.rutgers.edu/throughthelens&quot;&gt;go.rutgers.edu/throughthelens&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: The Zimmerli remains closed to the public, with all in-person programs and events suspended, until further notice. &lt;/em&gt;Please follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/april-showers-not-zoom&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 12 Apr 2021 17:29:49 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3525 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Picturing American Stories: Celebrating Jersey City: A Student Research Symposium on April 22</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/picturing-american-stories-celebrating-jersey-city-student-research</link>
+    <description>&lt;p class=&quot;CDt4Ke zfr3Q&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; vertical-align: baseline;&quot;&gt;This symposium features presentations by undergraduate students who have been engaged in researching artworks in the Zimmerli Art Museum&amp;rsquo;s recently acquired Jersey City Museum Collection. These presentations explore the historical, cultural, and artistic contexts of works that foreground the perspectives and art of people traditionally underrepresented in museum spaces, focusing on themes of gender, race, immigration, class, and labor.&lt;/span&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/picturing-american-stories-celebrating-jersey-city-student-research&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 12 Apr 2021 13:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3528 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Museum Staff Continue Campus Offerings on Virtual Platforms During Pandemic Closures</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/museum-staff-continue-campus-offerings-virtual-platforms-during-pan</link>
+    <description>&lt;p&gt;January 25, 2021&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Zimmerli Staff Continue Campus Offerings on Virtual Platforms During Pandemic Closures&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;New Brunswick, NJ &amp;ndash; Throughout the fall 2020 semester, staff members at the Zimmerli Art Museum at Rutgers remained engaged with the university&amp;rsquo;s students by adapting longtime offerings that usually take place on campus into virtual formats, as the museum building remains closed to the public and in-person programs are suspended until further notice.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/museum-staff-continue-campus-offerings-virtual-platforms-during-pan&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 12 Apr 2021 12:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3502 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Women Photographers in Dodge Collection Focus of April 29 Virtual Exhibition Celebration</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/women-photographers-dodge-collection-focus-april-29-virtual-exhibit</link>
+    <description>&lt;p&gt;April 12, 2021&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Women Photographers in Dodge Collection Focus of April 29 Virtual Exhibition Celebration&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/women-photographers-dodge-collection-focus-april-29-virtual-exhibit&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 12 Apr 2021 10:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3529 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Art After Hours Wraps Up 2020-21 Season on April 6</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/art-after-hours-wraps-2020-21-season-april-6</link>
+    <description>&lt;p&gt;March 29, 2021&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;After Pivoting to Virtual, Art After Hours at the Zimmerli Wraps Up 2020-21 Season on April 6&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;views-field-field-news-teaser-value&quot;&gt;
+&lt;div class=&quot;field-content&quot;&gt;
+&lt;p&gt;Explore the online exhibition &lt;a href=&quot;https://go.rutgers.edu/ZAMmoonlight&quot;&gt;&lt;em&gt;Musings by Moonlight: The Moon from Japanese Art to Japonism&lt;/em&gt;&lt;/a&gt; with the students and staff who created it, followed by a talk about the appearance of the moon in manga and an origami demonstration. Art After Hours is free and open to the public. Zoom registration is available at &lt;a href=&quot;https://go.rutgers.edu/artafterhours&quot;&gt;go.rutgers.edu/artafterhours&lt;/a&gt;. Activities are presented with the support of Rutgers Global, Rutgers Asian American Cultural Center, and the Rutgers Department of Asian Languages and Cultures, in conjunction with its Rutgers Meets Japan initiative marking 150 years of special friendship.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join us on Zoom for the final spring session of BLOOM: Explore Self-Expression and Growth through Art on April 10. &amp;quot;Thrive: Sketching Your Growth through Botany&amp;quot;&lt;strong&gt; &lt;/strong&gt;envisions the growth and power in our life journeys through sketching with botany-inspired artworks. Visit &lt;a href=&quot;http://go.rutgers.edu/bloom&quot;&gt;go.rutgers.edu/bloom&lt;/a&gt; for details and Zoom link (registration not required). Workshops are conducted with English and Spanish instruction. BLOOM is a partnership between the Zimmerli and&amp;nbsp;&lt;a href=&quot;https://www.sisterwork.org/&quot;&gt;Sisterwork&lt;/a&gt;, a New Brunswick start-up that addresses intergenerational poverty in New Jersey, offering these free public workshops.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: The Zimmerli remains closed to the public, with all in-person programs and events suspended, until further notice. &lt;/em&gt;Please follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/art-after-hours-wraps-2020-21-season-april-6&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Sun, 28 Mar 2021 11:15:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3524 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Registration Open for Free Virtual Artist Talk with Sadie Barnette on March 30</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/registration-open-free-virtual-artist-talk-sadie-barnette-march-30</link>
+    <description>&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Sadie Barnette Presents Virtual Artist Talk on March 30&lt;/strong&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/registration-open-free-virtual-artist-talk-sadie-barnette-march-30&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Sun, 28 Mar 2021 10:30:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3515 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>New Artist Talks Announced, Series Continue Through Spring</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/new-artist-talks-announced-series-continue-through-spring</link>
+    <description>&lt;p&gt;March 4, 2021&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Virtual Programs Continue Through Spring at the Zimmerli&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;New Brunswick, NJ &amp;ndash; The Zimmerli Art Museum at Rutgers invites the university community and general public to a variety of virtual programs while the museum building remains closed to the public and in-person events are suspended until further notice.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/new-artist-talks-announced-series-continue-through-spring&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Thu, 04 Mar 2021 09:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3519 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Members Invited for Virtual Visit with Joan Snyder in Her Studio on March 18</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/members-invited-virtual-visit-joan-snyder-her-studio-march-18</link>
+    <description>&lt;p&gt;March 4, 2021&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Zimmerli Members Invited for Virtual Visit with Joan Snyder in Her Studio&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/members-invited-virtual-visit-joan-snyder-her-studio-march-18&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Thu, 04 Mar 2021 08:45:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3520 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Spring Into Action With Us in March</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/spring-action-us-march</link>
+    <description>&lt;p&gt;In recognition of Women&amp;#39;s History Month and International Women&amp;#39;s Day, &lt;a href=&quot;http://www.zimmerlimuseum.rutgers.edu/information/media/press-releases/art-after-hours-highlights-women-artists-zimmerli-collections-march&quot;&gt;Art After Hours&lt;/a&gt; on March 2 features a preview of &lt;em&gt;Communism Through the Lens: Everyday Life Captured by Women Photographers in the Dodge Collection&lt;/em&gt;, an upcoming exhibition of rarely seen images.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Get creative with family and friends during &lt;a href=&quot;https://sites.google.com/scarletmail.rutgers.edu/zimmerliathome/zimmerliathome/virtual-events#h.ixuhbaaie3d6&quot;&gt;Art Together&lt;/a&gt; on April 3.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Explore the online exhibition &lt;em&gt;&lt;a href=&quot;https://sites.google.com/scarletmail.rutgers.edu/zimmerliathome/zimmerliathome/online-exhibitions/musings-by-moonlight&quot;&gt;Musings by Moonlight:&lt;/a&gt; The Moon from Japanese Art to Japonism &lt;/em&gt;at Art After Hours on April 6 and meet the Rutgers students who worked on creating it. Plus, Kay Clopton, from The Ohio State University Libraries, discusses the appearance of the moon in manga. &lt;a href=&quot;https://sites.google.com/scarletmail.rutgers.edu/zimmerliathome/zimmerliathome/virtual-events#h.smfpvet7kb28&quot;&gt;Register&lt;/a&gt; for this Zoom program, which is free and open to the public. Presented in partnership with Rutgers Global, Rutgers Department of Asian Languages and Cultures, and Rutgers Asian American Cultural Center.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: The Zimmerli remains closed to the public, with all in-person programs and events suspended, until further notice. &lt;/em&gt;Please follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/spring-action-us-march&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Thu, 04 Mar 2021 07:00:41 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3518 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>New Programs Added in February</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/new-programs-added-february</link>
+    <description>&lt;p&gt;February 11, 2021&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Zimmerli Launches New Virtual Programs in February&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;New Brunswick, NJ &amp;ndash; The Zimmerli Art Museum at Rutgers invites the university community and general public to a variety of virtual programs while the museum building remains closed to the public and in-person events are suspended until further notice.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Join the next virtual lecture for Zimmerli members on February 24, &amp;ldquo;The Fate of Art in Vienna during the Nazi Era.&amp;rdquo; Rutgers alumna Victoria S. Reed, Curator for Provenance at the Museum of Fine Arts, Boston, examines works of art in private collections before World War II that were displaced, looted, or forcibly sold during the National Socialist period. Current members are invited to &lt;a href=&quot;https://zoom.us/webinar/register/WN_NpIionOdThOzJ9YV1-cRsg&quot;&gt;register on Zoom&lt;/a&gt;. Not a member yet? Learn more &lt;a href=&quot;http://www.zimmerlimuseum.rutgers.edu/membership/become&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In recognition of Women&amp;#39;s History Month and International Women&amp;#39;s Day, &lt;a href=&quot;http://www.zimmerlimuseum.rutgers.edu/information/media/press-releases/art-after-hours-highlights-women-artists-zimmerli-collections-march&quot;&gt;Art After Hours&lt;/a&gt; on March 2 features a preview of &lt;em&gt;Communism Through the Lens: Everyday Life Captured by Women Photographers in the Dodge Collection&lt;/em&gt;, an upcoming exhibition of rarely seen images. The evening also spotlights women artists from other areas of the museum&amp;#39;s collections in honor of the annual &lt;a href=&quot;https://nmwa.org/support/advocacy/5womenartists/&quot; target=&quot;_blank&quot;&gt;#5WomenArtists&lt;/a&gt; campaign. &lt;a href=&quot;https://zoom.us/webinar/register/WN_8nwZZE81SwKsxAaaev8A5Q&quot;&gt;Register &lt;/a&gt;for free on Zoom.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: The Zimmerli remains closed to the public, with all in-person programs and events suspended, until further notice. &lt;/em&gt;Please follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/new-programs-added-february&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Fri, 19 Feb 2021 11:13:58 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3514 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Art After Hours Highlights Women Artists from the Zimmerli Collections on March 2</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/art-after-hours-highlights-women-artists-zimmerli-collections-march</link>
+    <description>&lt;p&gt;February 19, 2021&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Art After Hours Highlights Women Artists from the Zimmerli Collections on March 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/art-after-hours-highlights-women-artists-zimmerli-collections-march&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Fri, 19 Feb 2021 06:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3516 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Upcoming Virtual Programs</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/upcoming-virtual-programs</link>
+    <description>&lt;p&gt;January 2021&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Kick Off 2021 with Zimmerli&amp;rsquo;s Virtual Programs&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;New Brunswick, NJ &amp;ndash; The Zimmerli Art Museum at Rutgers is pleased to announce virtual programs for the new year while the museum building remains closed to the public and in-person events are suspended until further notice.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;views-field-field-news-teaser-value&quot;&gt;
+&lt;div class=&quot;field-content&quot;&gt;
+&lt;p&gt;The next Zoom session of Art Together, which offers free family art activities, meets on February 6. Register up to the program start time at &lt;a href=&quot;https://go.rutgers.edu/arttogether&quot;&gt;go.rutgers.edu/arttogether&lt;/a&gt;. Recordings of previous &lt;a href=&quot;https://sites.google.com/scarletmail.rutgers.edu/zimmerliathome/zimmerliathome/videos#h.gp8o8v9qfkv&quot;&gt;meetings are posted&lt;/a&gt; on Zimmerli at Home.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;		This spring, the Zimmerli partners with &lt;a href=&quot;https://www.sisterwork.org/&quot;&gt;Sisterwork&lt;/a&gt;, a New Brunswick start-up committed to addressing intergenerational poverty in New Jersey, for the new series BLOOM: Explore Growth and Self-Expression Through Art. Monthly sessions are free and open to the public, beginning February 13. Participants engage with artwork in the museum&amp;rsquo;s collections through mindfulness, movement, and community narratives. Registration is not required. Workshops are conducted with both English and Spanish instruction. Please visit Zimmerli at Home &lt;a href=&quot;https://sites.google.com/scarletmail.rutgers.edu/zimmerliathome/zimmerliathome/virtual-events&quot;&gt;Virtual Events&lt;/a&gt; for details and Zoom information.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.zimmerlimuseum.rutgers.edu/programs-events/workshops-classes#Drawing%20Classes%20at%20the%20Zimmerli&quot;&gt;Register soon&lt;/a&gt; for Art Adventures. The series of eight sessions - for ages 7 to 14 - begins February 16. Zimmerli &lt;a href=&quot;http://www.zimmerlimuseum.rutgers.edu/membership/become&quot;&gt;members&lt;/a&gt; receive a discount.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: The Zimmerli remains closed to the public, with all in-person programs and events suspended, until further notice. &lt;/em&gt;Please follow the university&amp;#39;s dedicated&amp;nbsp;&lt;a href=&quot;https://coronavirus.rutgers.edu/&quot;&gt;COVID-19 information page&lt;/a&gt;&amp;nbsp;regarding all updates across Rutgers campuses.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/upcoming-virtual-programs&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 25 Jan 2021 09:30:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3501 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Partnership Between Zimmerli and Rutgers Course &quot;From Text to Image in Japanese Art&quot; Presents New Virtual Exhibition, &quot;Musings by Moonlight: The Moon from Japanese Art to Japonism&quot;</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/partnership-between-zimmerli-and-rutgers-course-text-image-japanese</link>
+    <description>&lt;div class=&quot;hJDwNd-AhqUyc-EehZO purZT-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c JNdkSc&quot;&gt;
+&lt;div class=&quot;JNdkSc-SmKAyb&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;oKdM2c Kzv0Me&quot;&gt;
+&lt;div class=&quot;hJDwNd-AhqUyc-EehZO jXK9ad D2fZ2 OjCsFc wHaque GNzUNc&quot; id=&quot;h.52b9c6410c0e27ee_61&quot;&gt;
+&lt;div class=&quot;jXK9ad-SmKAyb&quot;&gt;
+&lt;div class=&quot;tyJCtd mGzaTb baZpAe&quot;&gt;
+&lt;p class=&quot;CDt4Ke zfr3Q&quot; dir=&quot;ltr&quot;&gt;&lt;em&gt;&lt;strong&gt;View the virtual exhibition on &lt;a href=&quot;https://sites.google.com/scarletmail.rutgers.edu/zimmerliathome/zimmerliathome/online-exhibitions/musings-by-moonlight&quot;&gt;Zimmerli at Home&lt;/a&gt;!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;This virtual exhibition was organized by &lt;a href=&quot;https://www.google.com/url?q=https%3A%2F%2Fasianlanguages.rutgers.edu%2Ffaculty-undergrad-menu%2F41-faculty%2Ffaculty-profiles%2F774-haruko-wakabayashi1&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNHHSEqUS4Pe5E4Bx613yu8e17G0iw&quot; target=&quot;_blank&quot;&gt;Professor Haruko Wakabayashi&lt;/a&gt;, Department of Asian Languages and Cultures, and students in her Fall 2020 course, &amp;quot;From Text to Image in Japanese Art,&amp;quot; with Nicole Simpson, Assistant Curator of Prints &amp;amp; Drawings.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/partnership-between-zimmerli-and-rutgers-course-text-image-japanese&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Thu, 21 Jan 2021 09:00:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3489 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  <item>
+    <title>Watch Virtual Book Launch for Angela Davis—Seize the Time</title>
+    <link>http://zimmerli.rutgers.edu/information/media/press-releases/watch-virtual-book-launch-angela-davis%E2%80%94seize-time</link>
+    <description>&lt;p&gt;Although the upcoming exhibition &lt;em&gt;Angela Davis&amp;mdash;Seize the Time&lt;/em&gt; is postponed until 2021, the &lt;a href=&quot;http://zimmerlimuseum.rutgers.edu/information/media/press-releases/exhibition-catalogue-angela-davis%E2%80%94seize-time-available-september-15&quot;&gt;192-page catalogue&lt;/a&gt;, which documents Davis&amp;rsquo;s life, influence, and enduring activism over the past 50 years, is &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/distributed/A/bo68160170.html&quot;&gt;now available&lt;/a&gt; from Hirmer Publishers and The University of Chicago Press.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-news-contact&quot;&gt;&lt;legend&gt;Who to contact:&lt;/legend&gt;&lt;div class=&quot;field field-type-email field-field-news-contact-email&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;mailto:press@zimmerli.rutgers.edu&quot;&gt;press@zimmerli.rutgers.edu&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-text field-field-news-teaser&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Teaser:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Although the upcoming exhibition &lt;em&gt;Angela Davis&amp;mdash;Seize the Time&lt;/em&gt; is postponed until 2021, the &lt;a href=&quot;http://zimmerlimuseum.rutgers.edu/information/media/press-releases/exhibition-catalogue-angela-davis%E2%80%94seize-time-available-september-15&quot;&gt;192-page catalogue&lt;/a&gt;, which documents Davis&amp;rsquo;s life, influence, and enduring activism over the past 50 years, is &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/distributed/A/bo68160170.html&quot;&gt;now available&lt;/a&gt; from Hirmer Publishers and The University of Chicago Press. Learn more during the &lt;a href=&quot;https://sites.google.com/scarletmail.rutgers.edu/zimmerliathome/zimmerliathome/videos#h.w39lok5f8yp8&quot;&gt;virtual book launch&lt;/a&gt; recorded on October 1.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://zimmerli.rutgers.edu/information/media/press-releases/watch-virtual-book-launch-angela-davis%E2%80%94seize-time&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Thu, 21 Jan 2021 00:30:00 +0000</pubDate>
+ <dc:creator>tcw4</dc:creator>
+ <guid isPermaLink="false">3444 at http://zimmerli.rutgers.edu</guid>
+  </item>
+  </channel>
+</rss>

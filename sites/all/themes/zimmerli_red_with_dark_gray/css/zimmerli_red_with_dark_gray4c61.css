@@ -1,0 +1,21 @@
+/* exhibitions pages */
+
+.view-exhibitions ul li{overflow:auto;padding:18px 0;border-bottom:1px solid #98AA3E;margin:0 12px;}
+
+#node-31 ul li{overflow:auto;margin:15px 0;}
+#node-31 ul{margin:0;padding:0}
+
+.views-field-field-exh-image-fid{float:left;overflow:hidden;width:120px;padding-right:12px;text-align:center;}
+
+.view-exhibitions .views-field-title{font-weight:bold;}
+.view-exhibitions .views-field-field-exh-location-value,
+#node-31 .exhibition-location{font-style:italic;}
+
+.exhibition-img{float:left;padding-right:20px;padding-left:20px;}
+.exhibition-date{font-weight:bold;}
+.exhibition-links{font-weight:bold;padding-bottom:12px;margin-bottom:12px;border-bottom:1px solid #98AA3E;overflow:auto;}
+.exhibition-img-desc{border-top:1px solid #98AA3E;padding-top:12px;margin-left:20px;overflow:auto;}
+#main .exhibition-img-desc p{padding:0px;margin:0px;font-size:11px;}
+
+.main .exh-view ul{margin:-10px;padding-left:0;}
+.exh-view a{font-weight:bold}

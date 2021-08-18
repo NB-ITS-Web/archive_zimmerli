@@ -1,0 +1,266 @@
+#main .column {
+height: 100%;
+}
+
+.photo-gallery {
+	width: 674px;
+	margin:  0px; /*0px 17px 0px 32px;*/
+	padding: 0px;
+	height: 100%;
+}
+
+.content-wrapper {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+.gallery {
+	left: 0px;
+	height: 100%;
+	width: 674px;
+}
+
+.imgtitle {
+	color: #F53916;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.gallery li img, .gallery-dynamic li img {
+float: left; /*fix for indicator*/
+clear: both;
+}
+
+
+ul.gallery img.thumbnail {
+    display: none;	
+	height: 80px;
+	width: 80px;
+}
+ul.gallery img.large {
+    float: left;
+	width: 400px;
+	height: 400px;
+}
+
+ul.gallery li {
+    overflow: auto;
+    outline-style: none;
+}
+/* html ul.gallery li {
+    zoom: 1;
+}*/
+.gallery.dynamic {
+    border: 0px;
+    background-color: white;
+    position: relative;
+	width: 674px;
+	margin: 0px 0px 50px;
+}
+.gallery.dynamic .frame {
+    position: relative;
+	top: 0px;
+    /*overflow: hidden;*/
+	/*height: 438px;*/
+	width: 674px;
+	height: 400px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.gallery.dynamic .frame .current {
+	position: relative;
+	top: 0px;
+    height: 400px;
+	width: 400px;
+    outline-style: none;
+	background: #EDEDE5 none no-repeat center center;
+}
+
+.gallery.dynamic .frame .next {
+	position: absolute;
+	top: 0px;
+    height: 400px;
+	width: 400px;
+    outline-style: none;
+	background: #EDEDE5 none no-repeat center center;
+}
+
+.gallery.dynamic .frame .move-prev {
+	margin: 0px;
+	padding: 0px;
+    position: absolute;
+    height: 20px;
+    width: 80px;
+	top: 380px;
+	left: 419px;
+	z-index: 5000;
+	background: url('../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-prev-trans.4cb.d') no-repeat scroll right center;
+	display: none;
+}
+
+.gallery.dynamic .frame .move-next {
+	margin: 0px;
+	padding: 0px;
+    position: absolute;
+    height: 20px;
+    width: 50px;
+	top: 380px;
+	left: 624px;
+	z-index: 5000;
+	background: url('../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-next-trans.4cc.d') no-repeat scroll right center;
+	display: none;
+}
+
+.gallery.dynamic .frame .prev-hover {
+	cursor: pointer;
+	background: url('../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-prev-trans.4cb.d') no-repeat scroll left center;
+}
+.gallery.dynamic .frame .next-hover {
+	cursor: pointer;
+	background: url('../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-next-trans.4cc.d') no-repeat scroll right center;
+}
+* html .gallery.dynamic .frame .next-hover {
+    background-image: url('../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-next-trans.4cc.d');
+}
+* html .gallery.dynamic .frame .prev-hover {
+    background-image: url('../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-prev-trans.4cb.d');
+}
+
+.gallery.dynamic .frame ul li {
+	width: 80px;
+	padding: 0px;
+}
+
+.gallery.dynamic .frame .index {
+	position: relative;
+	top: 47px;
+	left: 0px;
+    height: 100%;
+	width: 674px; 
+	/*overflow: visible;*/
+	list-style-type: none;
+    margin: 0px !important;
+    padding: 0px;
+}
+/*.gallery.dynamic .frame .index {
+	margin: 0px 10px 10px -60px;
+}*/
+
+.gallery.dynamic .frame .index li {
+	height: 99px;/*80px;*/
+	width: 80px;
+	margin: 0px 19px 0px 0px;
+}
+.gallery.dynamic .frame .index .current-position-mask {
+	display: none;
+}
+.gallery.dynamic .frame .index .current-position-caption {
+	background-color: #AAB825;
+	width: 80px;
+	height: 5px;
+	/*z-index: 5000;*/
+	position: relative;
+	top: 85px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.gallery.dynamic.no-captions .frame {
+	height: 400px;
+}
+.gallery.dynamic.no-captions .frame .caption * {
+	display: none;
+}
+.gallery.dynamic.no-captions .frame .caption h2 {
+	display: block;
+}
+.gallery.dynamic .frame .caption {
+	position: absolute;
+	top: 0px;
+	font-size: 0.9em;
+    height: 370px;
+	left: 419px;
+	width: 255px;
+    background: #ffffff; /*transparent url(/web/20180622032850im_/http://www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/caption-background.png) repeat-x scroll left top;*/
+    padding: 0;
+	margin: 0px;
+    font-family: Verdana, Geneva, sans-serif;
+	line-height: 1.2em;
+}
+.gallery.dynamic .frame .caption * {
+	margin: 0;
+	padding: 0;
+}
+/*.today-page .gallery.dynamic .frame .caption h2,*/
+.gallery.dynamic .frame .caption h2 {
+	font-size: 1.1em;
+	color: #006e8e;
+	font-family: Verdana;
+	margin: 10px 0px 0.25em;
+	border-bottom-width: 0;
+}
+
+.gallery.dynamic .frame .caption div {
+	margin: 0.5em 0px;
+}
+
+.gallery.dynamic .index li {
+    /*display: block;
+    position: absolute;*/
+    cursor: pointer;
+	background-color: transparent;
+	color: #AAB825;
+	text-align: left;
+}
+
+.gallery.dynamic .button-left {
+    /*display: none;
+	overflow: hidden;*/
+	margin: 0px;
+	padding: 0px;
+    position: absolute;
+    height: 20px;
+    width: 80px;
+	top: 380px;
+	left: 419px;
+    background:url(../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-prev-trans.4cb.d) no-repeat scroll left top; /* transparent;*/
+    text-indent: 0px;
+    outline-style: none;
+    cursor: pointer;
+    z-index: 3000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.gallery.dynamic .button-right {
+    /*float: right;
+	display: none;
+	overflow: hidden*/
+	margin: 0px;
+	padding: 0px;
+    position: absolute;
+    height: 20px;
+    width: 50px;
+	top: 380px;
+	left: 624px;
+    background: url(../../../../../../web/20180622032850im_/http_/www.zimmerlimuseum.rutgers.edu/sites/all/modules/features/feature_gallery_feature/images/gallery-button-next-trans.4cc.d);
+    text-indent: 0px;
+    outline-style: none;
+    cursor: pointer;
+    z-index: 3000;
+	font-weight: bold;
+	text-decoration: none;
+}
+.gallery.dynamic .button-left.hover {
+	background-position: 0px 0px;
+}
+.gallery.dynamic .button-right.hover {
+	background-position: 0px 0px;
+}
+.gallery.dynamic .button-left.disabled,
+.gallery.dynamic .button-right.disabled {
+	background-position: left bottom !important;*/
+}
+

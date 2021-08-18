@@ -1,0 +1,30 @@
+.university-menu-block{ float: left; }
+.university-menu-block ul{ height: 20px; line-height: 20px; margin: 0; padding: 0; }
+#sliver .university-menu-block ul li{ border-right: 1px solid #000; display: inline; margin: 0 8px 0 0; padding: 0 8px 0 0; }
+.quickfinder-block ul li{display: inline; margin: 0 8px 0 0; padding: 0 8px 0 0; }
+.quickfinder-block ul li.last{ border: none; padding: 0; margin: 0; }
+#sliver .university-menu-block ul li.last{ border-right: none; padding: 0; margin: 0; }
+.university-menu ul li a{ color: #3C3B40; }
+.quickfinder-block li{ border: none; }
+.quickfinder-block{ float: right; overflow: hidden; }
+.quickfinder-block a{ border-right: none; display: block; float: left; height: 20px; line-height: 20px;  }
+.quickfinder-block a.university-search{ border-right: 1px solid #000; margin-right: 8px; padding-right: 8px; }
+.quickfinder-block a.quickfinder{ background: url(../images/button-toggle-quickfinder-sprite.png) no-repeat top right; border-right: none; padding-right: 30px; }
+.quickfinder-block a.hide-quickfinder{ background-position: bottom right; }
+#quickfinder{ background: #fff; border: 1px solid #a3a7a0; display: none; overflow: hidden; }
+#quickfinder .quicklinks{ background: #f7f7f2; border: 1px solid #a3a7a0; font-size: 11px; float: left; height: 128px; margin: 3px; width: 482px; }
+#quickfinder .quicklinks ul{ overflow: hidden; }
+#quickfinder .quicklinks ul li{  float: left; list-style: none; padding: 0; margin: 0; width: 33%;  }
+#quickfinder .quicklinks ul li ul{ margin: 14px; }
+#quickfinder .quicklinks ul li li{  float:none; list-style:disc inside; margin-bottom: 4px; width: auto; }
+#quickfinder-search-form{ background: #f7f7f2; border: 1px solid #a3a7a0; float: left; height: 128px; margin: 3px 3px 3px 0; width: 482px }
+#quickfinder-search-form .navigation{ overflow: hidden; margin: 0; padding: 0; }
+#quickfinder-search-form .navigation li{ float: left; list-style: none; margin: 0; padding: 0; }
+#quickfinder-search-form .navigation a{  background: #fff; border-bottom: 1px solid #a3a7a0; border-right: 1px solid #a3a7a0; float: left; font-size: 10px; height: 26px; line-height: 26px; display: block; text-align: center; width: 92px; }
+#quickfinder-search-form .navigation a:hover{ color: #b78d00; text-decoration: none; }
+#quickfinder-search-form .navigation a.active{ background: #f7f7f2; border-bottom: none; color: #990000;  }
+#quickfinder-search-form .navigation li.last a{ border-right: none; width: 110px; }
+#quickfinder-search-form #edit-q-wrapper{ float: left; padding: 10px; margin: 0; }
+#quickfinder-search-form .form-submit{ float: left; margin-top: 10px; }
+#quickfinder-search-form #edit-q-wrapper input{ width: 230px; }
+#quickfinder-search-form .description{ clear: both; font-size: 10px; margin: 0 10px; }
